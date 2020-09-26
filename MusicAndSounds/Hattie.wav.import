@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hattie.wav-b261eb07335bb348ee4e0de5ac5cfff4.sample"
+
+[deps]
+
+source_file="res://MusicAndSounds/Hattie.wav"
+dest_files=[ "res://.import/Hattie.wav-b261eb07335bb348ee4e0de5ac5cfff4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
